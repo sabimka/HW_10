@@ -1,0 +1,23 @@
+    1  git commit 
+    2  cd HW_10/
+    3  ls
+    4  git commit 
+    5  git branch develop
+    6  checkout
+    7  git checkout develop
+    8  git touch develop_test.txt
+    9  touch develop_test.txt
+   10  git add .
+   11  git commit 
+   12  nano develop_test.txt
+   13  git status
+   14  git add .
+   15  commit 
+   16  git 
+   17  git commit
+   18  git checkout main
+   19  git marge develop
+   20  git merge develop
+   21  git log
+   22  command_list.csv
+   23  history > command_list.csv
